@@ -1,0 +1,16 @@
+101
+Mitch Banse
+10.0
+40.0
+102
+Nate Wurm
+20.0
+70.0
+103
+Tristan Augedahl
+30.0
+50.0
+104
+Josh Diersen
+40.0
+30.0
